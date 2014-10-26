@@ -1,0 +1,36 @@
+@charset "UTF-8";
+
+/* ****************************************************
+	base.css
+***************************************************** */
+
+
+
+/*  for All
+=========================================*/
+/* ----- font ----- */
+body {
+	font-size: 83%;
+	font-family: "ＭＳ Ｐゴシック", "HiraKakuPro-W3", "ヒラギノ角ゴ Pro W3", "Osaka", sans-serif;
+	line-height: 1.4;
+	color: #7a7a91;
+}
+a:link {
+	color: #006ebb;
+	text-decoration: underline;
+}
+a:visited {
+	color: #8f8f3f;
+	text-decoration: underline;
+}
+a:hover,
+a:active,
+a:focus {
+	color: #6699ff;
+	text-decoration: none;
+}
+
+img {
+	vertical-align: bottom;
+}
+
